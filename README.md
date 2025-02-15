@@ -3,7 +3,7 @@ Código que encontra um caminho para o problema do caixeiro viajante e seu custo
 
 Observação:
   O programa lê um arquivo matriz de distâncias, via arquivo de texto ('lau15_dist.txt')
-  e resolve o problema do caixeiro viajante utilizando uma heurística de inserção de vértices.
+  e resolve o problema do caixeiro viajante utilizando uma **heurística de inserção de vértices**.
 
 Instruções para rodar:
 
